@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Team2019</string>
+
+    <string name="button_registration_text">СОЗДАТЬ АККАУНТ</string>
+    <string name="button_login_text">ВХОД</string>
+    <string name="editText_login_hint">Email</string>
+    <string name="editText_password_hint">Пароль</string>
+    <string name="fragment_login_textView_forgetPassword_text">ЗАБЫЛИ ПАРОЛЬ?</string>
+    <string name="fragment_registration_editText_firstName_hint">Имя</string>
+    <string name="fragment_registration_editText_surName_hint">Фамилия</string>
+    <string name="fragment_registration_editText_phone_hint">Телефон</string>
+    <string name="fragment_forgetpassword_textView_fillplace_text">Заполните хотя бы одно поле:</string>
+    <string name="fragment_forgetpassword_button_restorepassword_text">ВОСТАНИВИТЬ ПАРОЛЬ</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
